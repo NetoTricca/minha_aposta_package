@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="minha_aposta",
-    version="0.0.3",
+    version="0.0.1",
     author="netotricca",
     author_email="netotricca@gmail.com",
     description="Meu pacote de apostas",
