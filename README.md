@@ -12,7 +12,7 @@ O pacote minha_aposta é usado para:
 ## Installation
 
 ```bash
-pip install minha_aposta
+pip install minha-aposta
 ```
 
 ## Use
