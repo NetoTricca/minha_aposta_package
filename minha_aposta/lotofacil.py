@@ -1,6 +1,6 @@
 import random
 
-def lotofacil(wnumbers=15,wrange=25):
+def aposta(wnumbers=15,wrange=25):
     wcont = int(wnumbers)
     wlista=[]
     while wcont > 0:

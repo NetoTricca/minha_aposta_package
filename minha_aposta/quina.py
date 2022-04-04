@@ -1,6 +1,6 @@
 import random
 
-def quina(wnumbers=5,wrange=80):
+def aposta(wnumbers=5,wrange=80):
     wcont = int(wnumbers)
     wlista=[]
     while wcont > 0:

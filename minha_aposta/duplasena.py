@@ -1,6 +1,6 @@
 import random
 
-def duplasena(wnumbers=6,wrange=50):
+def aposta(wnumbers=6,wrange=50):
     wcont = int(wnumbers)
     wlista=[]
     while wcont > 0:

@@ -1,6 +1,6 @@
 import random
 
-def megasena(wnumbers=6,wrange=60):
+def aposta(wnumbers=6,wrange=60):
     wcont = int(wnumbers)
     wlista=[]
     while wcont > 0:
